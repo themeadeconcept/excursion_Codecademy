@@ -1,22 +1,31 @@
 body {
-  background-color: #141414;
+  font-family: Verdana, sans-serif;
+  background-color: black;
 }
 
 /* Universal */
 .link {
   color: aquamarine;
   font-size: 16px;
-  font-family: Verdana;
 }
 
+/* Header */
+
 header {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
 }
 
-nav {
+/* Links */
+
+aside {
+  text-align: center;
+}
+
+/* Video Section */
+
+figure {
   text-align: center;
 }
