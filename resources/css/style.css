@@ -29,3 +29,18 @@ aside {
 figure {
   text-align: center;
 }
+
+/* Article Section */
+
+.header-2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+.excerpt {
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
