@@ -40,7 +40,14 @@ figure {
 }
 
 .excerpt {
-  font-size: 21px;
+  font-size: 25px;
   color: gray;
   text-align: center;
+}
+
+/* Footer */
+
+.excursion {
+  text-align: right;
+  color: gray;
 }
